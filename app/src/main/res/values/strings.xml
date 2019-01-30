@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoaderQuakeStats</string>
+
+    <string name="url_global" translatable="false">https://stats.quake.com/api/v2/Global</string>
+    <string name="url_duel_leads" translatable="false">https://stats.quake.com/api/v2/Leaderboard?from=0&amp;board=duel&amp;season=current</string>
+    <string name="url_tdm_leads" translatable="false">https://stats.quake.com/api/v2/Leaderboard?from=0&amp;board=tdm&amp;season=current</string>
+    <string name="url_player_stats" translatable="false">https://stats.quake.com/api/v2/Player/Stats</string>
+    <string name="url_player_summary" translatable="false">https://stats.quake.com/api/v2/Player/GamesSummary</string>
+    <string name="url_player_search" translatable="false">https://stats.quake.com/api/v2/Player/Search</string>
+</resources>
